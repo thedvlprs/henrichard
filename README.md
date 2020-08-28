@@ -2,11 +2,9 @@
 
 🌱 I’m currently learning Django, React Native & Flutter.
 
-[![HelloSophie's github stats](https://github-readme-stats.vercel.app/api?username=hellosophiee)](https://github.com/anuraghazra/github-readme-stats)
+![Sophie's github stats](https://github-readme-stats.vercel.app/api?username=hellosophiee&theme=cobalt&show_icons=true)
 
-![HelloSophie's github stats](https://github-readme-stats.vercel.app/api?username=hellosophiee&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellosophiee)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellosophiee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hellosophiee/hellosophiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
