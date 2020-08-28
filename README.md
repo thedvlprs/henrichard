@@ -7,6 +7,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellosophiee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/hellosophiee/Brooklyn-Bridge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hellosophiee&show_owner=hellosophiee&repo=Brooklyn-Bridge&theme=cobalt" />
+</a>
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hellosophiee&show_owner=hellosophiee&repo=Brooklyn-Bridge&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hellosophiee&show_owner=hellosophiee&repo=dice-game&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
