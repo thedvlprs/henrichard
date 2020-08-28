@@ -1,13 +1,20 @@
-### Hi there 👋 I'm Sophie.
+### Hi there 👋 I'm Sophie 
 
-🌱 I’m currently learning **Django, React Native & Flutter**.
 
-🔭 I’m currently working on something **super cool**.
+<img src="https://i.postimg.cc/RVJGt87z/IMG-6380.gif" alt="ava" width="120"/>
+
+🔥 Skills: *MERN Stack*
+
+🌱 Currently learning ***Django***, ***React Native*** & ***Flutter***.
+
+🔭 Working on something ***super cool***.
 
 
 ![Sophie's github stats](https://github-readme-stats.vercel.app/api?username=hellosophiee&theme=cobalt&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellosophiee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## My Projects:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hellosophiee&repo=Brooklyn-Bridge&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp; [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hellosophiee&repo=dice-game&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
