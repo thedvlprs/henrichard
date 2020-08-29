@@ -10,9 +10,9 @@
 
 🔥 Skills: `MERN Stack`
 
-🌱 Currently ***learning*** `Django`, `React Native` && `Flutter`.
+🌱 Currently ***learning*** `Django`, `React Native && Flutter`
 
-🔭 Currently ***working*** on something `super cool`.
+🔭 Currently ***working*** on something `super cool`
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellosophiee&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;![Sophie's github stats](https://github-readme-stats.vercel.app/api?username=hellosophiee&theme=cobalt&show_icons=true)
