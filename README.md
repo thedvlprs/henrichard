@@ -5,20 +5,20 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) 
 
-### Hi there 👋 I'm Sophie ![GitHub followers](https://img.shields.io/github/followers/hellosophiee?style=social)
+### Hi there <img src="https://i.postimg.cc/Yq9RwN0q/wave.gif" alt="wave" width="25"/> I'm Sophie ![GitHub followers](https://img.shields.io/github/followers/hellosophiee?style=social)
 
 <img src="https://i.postimg.cc/RVJGt87z/IMG-6380.gif" alt="ava" width="120"/>
 
-🔥 Skills: *MERN Stack*
+🔥 Skills: ***MERN*** *Stack*
 
 🌱 Currently learning ***Django***, ***React Native*** & ***Flutter***.
 
 🔭 Working on something ***super cool***.
 
 
-![Sophie's github stats](https://github-readme-stats.vercel.app/api?username=hellosophiee&theme=cobalt&show_icons=true)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellosophiee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Sophie's github stats](https://github-readme-stats.vercel.app/api?username=hellosophiee&theme=cobalt&show_icons=true)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellosophiee&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## My Projects:
+## Some of My Projects:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hellosophiee&repo=nodejs-telegram-bot-covid19&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp; [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hellosophiee&repo=react-firebase-blog&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
