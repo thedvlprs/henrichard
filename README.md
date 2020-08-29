@@ -1,6 +1,4 @@
-[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com) [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
-
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-jeffs-keyboard.svg)](https://forthebadge.com)
+[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com) [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-jeffs-keyboard.svg)](https://forthebadge.com)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) 
@@ -9,14 +7,15 @@
 
 <img src="https://i.postimg.cc/RVJGt87z/IMG-6380.gif" alt="ava" width="120"/>
 
-🔥 Skills: ***MERN*** *Stack*
 
-🌱 Currently learning ***Django***, ***React Native*** & ***Flutter***.
+🔥 Skills: `MERN Stack`
 
-🔭 Working on something ***super cool***.
+🌱 Currently ***learning*** `Django`, `React Native` && `Flutter`.
+
+🔭 Currently ***working*** on something `super cool`.
 
 
-![Sophie's github stats](https://github-readme-stats.vercel.app/api?username=hellosophiee&theme=cobalt&show_icons=true)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellosophiee&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellosophiee&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;![Sophie's github stats](https://github-readme-stats.vercel.app/api?username=hellosophiee&theme=cobalt&show_icons=true)
 
 ## Some of My Projects:
 
