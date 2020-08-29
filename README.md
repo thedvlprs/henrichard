@@ -16,9 +16,7 @@
 🔭 Working on something ***super cool***.
 
 
-![Sophie's github stats](https://github-readme-stats.vercel.app/api?username=hellosophiee&theme=cobalt&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellosophiee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Sophie's github stats](https://github-readme-stats.vercel.app/api?username=hellosophiee&theme=cobalt&show_icons=true)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellosophiee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Projects:
 
