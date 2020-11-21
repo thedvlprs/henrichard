@@ -5,8 +5,6 @@
 
 ### Hi there <img src="https://i.postimg.cc/Yq9RwN0q/wave.gif" alt="wave" width="25"/> I'm Sophie ![GitHub followers](https://img.shields.io/github/followers/hellosophiee?style=social)
 
-<img src="https://i.postimg.cc/RVJGt87z/IMG-6380.gif" alt="ava" width="120"/>
-
 
 🔥 Skills: `MERN Stack`
 
