@@ -15,11 +15,11 @@
 
 ## Some of My Projects:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hellosophiee&repo=nodejs-telegram-bot-covid19&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp; [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hellosophiee&repo=react-firebase-blog&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hellosophiee&repo=nodejs-telegram-bot-covid19&theme=cobalt)](https://github.com/hellosophiee/nodejs-telegram-bot-covid19) &nbsp;&nbsp; [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hellosophiee&repo=react-firebase-blog&theme=cobalt)](https://github.com/hellosophiee/react-firebase-blog)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hellosophiee&repo=chatty&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp; [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hellosophiee&repo=online-bookstore-django-app&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hellosophiee&repo=chatty&theme=cobalt)](https://github.com/hellosophiee/chatty) &nbsp;&nbsp; [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hellosophiee&repo=online-bookstore-django-app&theme=cobalt)](https://github.com/hellosophiee/online-bookstore-django-app)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hellosophiee&repo=Brooklyn-Bridge&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp; [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hellosophiee&repo=react-todo-app&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hellosophiee&repo=Brooklyn-Bridge&theme=cobalt)](https://github.com/hellosophiee/Brooklyn-Bridge) &nbsp;&nbsp; [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hellosophiee&repo=react-todo-app&theme=cobalt)](https://github.com/hellosophiee/react-todo-app)
 
 
 
