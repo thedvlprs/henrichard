@@ -1,14 +1,12 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-jeffs-keyboard.svg)](https://forthebadge.com)
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) 
 
-### <img src="https://i.postimg.cc/Yq9RwN0q/wave.gif" alt="wave" width="25"/> I'm Sophie ![GitHub followers](https://img.shields.io/github/followers/hellosophiee?style=social)
+### Hello there <img src="https://i.postimg.cc/Yq9RwN0q/wave.gif" alt="wave" width="25"/>, I'm Sophie ![GitHub followers](https://img.shields.io/github/followers/hellosophiee?style=social) ![](https://visitor-badge.glitch.me/badge?page_id=hellosophie.hellosophie)
 
 
-🔥 Skills: `MERN Stack`
+🔥 Skills: ![](https://img.shields.io/badge/MERN-Stack-brightgreen)
 
-🌱 Currently learning `Django`, `React Native && Flutter`
+🌱 Currently mastering ![](https://img.shields.io/badge/Algos%20%26%20DS-ES6-brightgreen)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellosophiee&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;![Sophie's github stats](https://github-readme-stats.vercel.app/api?username=hellosophiee&theme=cobalt&show_icons=true)
