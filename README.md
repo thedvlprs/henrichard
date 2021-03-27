@@ -4,9 +4,9 @@
 ### Hello there <img src="https://i.postimg.cc/Yq9RwN0q/wave.gif" alt="wave" width="25"/>, I'm Sophie ![GitHub followers](https://img.shields.io/github/followers/hellosophiee?style=social) ![](https://visitor-badge.glitch.me/badge?page_id=hellosophie.hellosophie)
 
 
-🔥 Skills: ![](https://img.shields.io/badge/MERN-Stack-brightgreen)
+🔥 Skills ![](https://img.shields.io/badge/MERN-Stack-brightgreen)
 
-🌱 Currently mastering ![](https://img.shields.io/badge/Algos%20%26%20DS-ES6-brightgreen)
+🌱 Currently mastering ![](https://img.shields.io/badge/DSA-ES6-brightgreen)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellosophiee&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;![Sophie's github stats](https://github-readme-stats.vercel.app/api?username=hellosophiee&theme=cobalt&show_icons=true)
