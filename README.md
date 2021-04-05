@@ -1,8 +1,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-jeffs-keyboard.svg)](https://forthebadge.com)
 
 
-### Hello there <img src="https://i.postimg.cc/Yq9RwN0q/wave.gif" alt="wave" width="25"/>, I'm Sophie ![GitHub followers](https://img.shields.io/github/followers/hellosophiee?style=social) ![](https://visitor-badge.glitch.me/badge?page_id=hellosophie.hellosophie)
-
+### Hello there <img src="https://i.postimg.cc/Yq9RwN0q/wave.gif" alt="wave" width="25"/>, I'm Sophie ![GitHub followers](https://img.shields.io/github/followers/hellosophiee?style=social) ![](https://visitor-badge.glitch.me/badge?page_id=hellosophie.hellosophie) ![](https://www.codewars.com/users/sophieee/badges/micro)
 
 🔥 Skills ![](https://img.shields.io/badge/MERN-Stack-brightgreen)
 
