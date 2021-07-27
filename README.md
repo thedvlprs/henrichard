@@ -1,13 +1,19 @@
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-jeffs-keyboard.svg)](https://forthebadge.com)
 
-### hello there, i'm **Sophie** ![GitHub followers](https://img.shields.io/github/followers/hellosophiee?style=social), a passionate self-taught full stack developer ![](https://visitor-badge.glitch.me/badge?page_id=hellosophie.hellosophie). 
+<p align="center">
+ <img src="https://forthebadge.com/images/badges/powered-by-jeffs-keyboard.svg" alt="" />
+ <br />
+  <img src="https://img.shields.io/badge/FULLSTACK-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="fullstack"  />
+ <br />
+  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" alt="soul&code" width="400" height="200" />
+ <br />
+
+ <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb-logo"  />
+ <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs-logo"  />
+ <img src="https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react" alt="react-logo"  />
+ <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="nodejs-logo"  />
+</p>
 
 ---
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. 
-
-
-### 🔥 Skills ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react) ![Node](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
 ### 🏆 Points ![](https://www.codewars.com/users/sophieee/badges/micro) ![javascript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript) 
 
@@ -21,23 +27,5 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ### 🌱 Currently mastering ![DSA](https://img.shields.io/badge/dsa|es6-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-
-
 ![Sophie's github stats](https://github-readme-stats.vercel.app/api?username=hellosophiee&theme=cobalt&show_icons=true)
 
-
-
-<!--
-**hellosophiee/hellosophiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
