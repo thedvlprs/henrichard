@@ -1,7 +1,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-jeffs-keyboard.svg)](https://forthebadge.com)
 
 ### hello there, i'm **Sophie** ![GitHub followers](https://img.shields.io/github/followers/hellosophiee?style=social), a passionate self-taught full stack developer ![](https://visitor-badge.glitch.me/badge?page_id=hellosophie.hellosophie). 
--
+
+---
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. 
 
