@@ -26,6 +26,6 @@
 
 ### 🌱 ![Custom](https://img.shields.io/badge/currently-mastering-brightgreen) ![DSA](https://img.shields.io/badge/dsa|es6-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-### 📒 ![Custom](https://img.shields.io/badge/JS-handbook RU-brightgreen) [javascript-для-тупых](https://richardhen.gitbook.io/javascript-for-dummies/)
+### 📒 ![Custom](https://img.shields.io/badge/JS-handbookRU-brightgreen) [javascript-для-тупых](https://richardhen.gitbook.io/javascript-for-dummies/)
 
 ![Richardhen's github stats](https://github-readme-stats.vercel.app/api?username=henrichard&theme=cobalt&show_icons=true)
