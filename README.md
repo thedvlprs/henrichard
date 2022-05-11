@@ -16,7 +16,7 @@
 
 ### 🎓 ![FCC](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white) 
 
-### 🏆 ![](https://www.codewars.com/users/sophieee/badges/micro) ![javascript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript) 
+### 🏆 ![](https://www.codewars.com/users/richardhen/badges/micro) ![javascript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript) 
 
 ### ⌨️ ![VSC](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![AndroidStudio](https://img.shields.io/badge/Android-Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
@@ -24,7 +24,7 @@
 
 ### 🖥 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=MAC&logoColor=whit)
 
-### 🌱 ![Custom](https://img.shields.io/badge/currently-mastering-brightgreen) ![DSA](https://img.shields.io/badge/dsa|es6-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+### 🌱 ![Custom](https://img.shields.io/badge/currently-mastering-brightgreen) ![DSA](https://img.shields.io/badge/dsa|es6-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-![Sophie's github stats](https://github-readme-stats.vercel.app/api?username=hellosophiee&theme=cobalt&show_icons=true)
+![Richardhen's github stats](https://github-readme-stats.vercel.app/api?username=henrichard&theme=cobalt&show_icons=true)
 
